@@ -12,7 +12,7 @@
     "bulma": "^0.9.4",
     "bulma-accordion": "^2.0.1",
     "bulma-steps-component": "^0.5.3",
-    "firebase": "^9.21.0",
+    "firebase": "^9.23.0",
     "help": "^3.0.2",
     "pinia": "^2.0.32",
     "sass": "^1.62.1",
